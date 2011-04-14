@@ -27,6 +27,6 @@ Jeweler::Tasks.new do |gem|
   gem.add_runtime_dependency 'thor', '> 0.14'
   gem.add_runtime_dependency 'bundler', '> 1.0.12'
 end
-Jeweler::RubygemsDotOrgTasks.new
+Jeweler::RubygemsDotOrgTasks.new rescue ""
 
 

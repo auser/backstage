@@ -8,6 +8,7 @@ gem 'json'
 gem 'torquebox'
 gem 'tobias-sinatra-url-for'
 gem 'rack-accept'
+gem 'rake'
 
 group :development do
   gem 'thor'
